@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ganesh0706patil
-- 👀 I’m interested in Tamil Porn and Mia Khalifa
+- 👀 I’m interested in Maths, Data Science and Android development.
 - 🌱 I’m currently learning AI & DS in VIIT
 - 💞️ I’m looking to collaborate on ...
 
