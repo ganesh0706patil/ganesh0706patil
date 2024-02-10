@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ganesh0706patil
-- 👀 I’m interested in Maths and data science
+- 👀 I’m interested in Girls and software engineerin
 - 🌱 I’m currently learning AI & DS in VIIT
 - 💞️ I’m looking to collaborate on ...
 
