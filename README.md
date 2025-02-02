@@ -2,8 +2,4 @@
 - 👀 I’m interested in Maths, Machine Learning.
 - 🌱 I’m currently learning AI & DS in VIIT
 - 💞️ I’m looking to collaborate on Backend and database projects.
-
-
-<p align="right">
-  <img src="https://tenor.com/bVwVa.gif">
-</p>
+<img src="https://tenor.com/bVwVa.gif">
