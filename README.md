@@ -5,5 +5,5 @@
 
 
 <p align="right">
-  <img width="250" src="https://tenor.com/bVwVa.gif">
+  <img src="https://tenor.com/bVwVa.gif">
 </p>
