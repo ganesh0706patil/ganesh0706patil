@@ -1,4 +1,4 @@
-<img width=250 align=right src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif">
+<img width=250 align=right src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"><bokha>
 👋 Hi, I’m Ganesh Patil
 
 - 👀 I’m interested in Maths, Machine Learning.
